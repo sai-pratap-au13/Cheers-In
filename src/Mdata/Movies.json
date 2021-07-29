@@ -1,0 +1,42 @@
+[
+    {
+        "id":101,
+        "title":"Movie1",
+        "subtitle":"this is movie one",
+        "description":"etryfughixrcytvubty xrctvb",
+        "imageUrl": "../images/16.jpg",
+        "rating": 3
+    },
+    {
+        "id":103,
+        "title":"Movie2",
+        "subtitle":"this is movie 2",
+        "description":"etryfughixrcytvubty xrctvb",
+        "imageUrl": "../images/movie2.jpg",
+        "rating": 4
+    },
+    {
+        "id":105,
+        "title":"Movie3",
+        "subtitle":"this is movie one",
+        "description":"etryfughixrcytvubty xrctvb",
+        "imageUrl": "../images/movie3.jpg",
+        "rating": 3
+    },
+    {
+        "id":107,
+        "title":"Movie4",
+        "subtitle":"this is movie one",
+        "description":"etryfughixrcytvubty xrctvb",
+        "imageUrl": "../images/movie4.jpg",
+        "rating": 5
+    },
+    {
+        "id":109,
+        "title":"Movie5",
+        "subtitle":"this is movie one",
+        "description":"etryfughixrcytvubty xrctvb",
+        "imageUrl": "../images/movie5.jpg",
+        "rating": 3
+    }
+]
